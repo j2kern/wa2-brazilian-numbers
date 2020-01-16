@@ -14,6 +14,3 @@ Enter a positive integer: 5555
 5555 in base 10 is 55,55 in base 100
 5555 in base 10 is 5,5,5,5 in base 10
 ```
-
-## Contributing
-Pull requests are welcome.
