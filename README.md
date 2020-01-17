@@ -1,8 +1,8 @@
 # wa2-brazilian-numbers
 
-  wa2-brazilian-numbers is a C# program dealing with finding repetitive numbers for their base number expressions.
+wa2-brazilian-numbers is a C# program dealing with finding repetitive numbers for their base number expressions. Completed as a programming assignment for digital computation class.
 
-## Usage
+## Example Output
 
 ```C#
 
